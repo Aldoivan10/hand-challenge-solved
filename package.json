@@ -1,0 +1,27 @@
+{
+  "name": "hand-challenge",
+  "version": "1.0.0",
+  "description": "My solution for the hand challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldoivan10/hand-challenge-solved.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "challengue",
+    "interview",
+    "state",
+    "machine"
+  ],
+  "author": "aldoivan10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aldoivan10/hand-challenge-solved/issues"
+  },
+  "homepage": "https://github.com/Aldoivan10/hand-challenge-solved#readme"
+}
